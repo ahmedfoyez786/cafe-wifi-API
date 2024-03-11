@@ -75,5 +75,8 @@ http://127.0.0.1:5000
 - **Parameters:**
 - `api_key`: An API key for authorization.
 
+## Copyright
+© 2024 Foyez Ahmed
+
 
 
